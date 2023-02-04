@@ -1,6 +1,7 @@
 ## Hey there 👋, I'm Deb!
 
-<p>I am a Software Developer with Experience in designing, building & deploying scalable, poduction-ready applications for the web.</p>
+<p>I am a Software Developer with Experience in designing, building & deploying scalable, poduction-ready applications for the web.
+Apart from coding, i enjoy reading novel and short stories, watching documentries, and exploring different aspects of life.</p>
 
 <h3>LINKS</h3>
 <a href="https://www.linkedin.com/in/debghosh7585/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

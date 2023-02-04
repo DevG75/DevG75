@@ -3,8 +3,8 @@
 <p>I am a Software Developer with Experience in designing, building & deploying scalable, poduction-ready applications for the web.</p>
 
 <h3>LINKS</h3>
-<a href="https://twitter.com/devghosh811"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/debghosh7585/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/devghosh811"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 <br>
 <h3>Technologies I work with</h3>

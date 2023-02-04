@@ -1,4 +1,4 @@
-## Hey there 👋, I'm Debabrata!
+## Hey there 👋, I'm Deb!
 
 <p>I am a Software Developer with Experience in designing, building & deploying scalable, poduction-ready applications for the web.</p>
 

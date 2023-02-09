@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Deb!
 
-<p>I am a Software Developer with Experience in designing, building & deploying scalable, poduction-ready applications for the web.
+<p>I am a Software Engineer with Experience in designing, building & deploying scalable, poduction-ready applications.
 Apart from coding, i enjoy reading novel and short stories, watching documentries, and exploring different aspects of life.</p>
 
 <h3>LINKS</h3>
